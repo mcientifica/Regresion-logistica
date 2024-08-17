@@ -1,1 +1,2 @@
 # Regresion-logistica
+La regresión logística es una técnica de Machine Learning utilizada principalmente para problemas de clasificación binaria, aunque también puede extenderse a problemas de clasificación multinomial. A diferencia de la regresión lineal, que se utiliza para predecir valores continuos, la regresión logística se utiliza para predecir la probabilidad de que una observación pertenezca a una de dos clases posibles.
